@@ -9,9 +9,9 @@ include:
 
 sync:
   exclude:
-    - .git/**
+    - .git/
     - .gitignore
-    - .vscode/**
+    - .vscode/
 
 targets:
   dev:
