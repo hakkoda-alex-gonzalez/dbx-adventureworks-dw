@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+dbx_adventureworks_dabs/.databricks/
+dbx_adventureworks_dabs/.vscode/
+dbx_adventureworks_dabs/.venv/
+dbx_adventureworks_dabs/scratch/**
+dbx_adventureworks_dabs/!scratch/README.md
+typings/
