@@ -1,9 +1,6 @@
-.databricks/
 build/
 dist/
 __pycache__/
 *.egg-info/
-.vscode/
-.venv/
 scratch/**
 !scratch/README.md
