@@ -6,7 +6,12 @@ bundle:
 
 include:
   - resources/*.yml
-  - resources/*/*.yml
+
+sync:
+  exclude:
+    - .git/**
+    - .gitignore
+    - .vscode/**
 
 targets:
   dev:
